@@ -1,0 +1,152 @@
+c:\users\korisnik\source\repos\BLOK2_projekat\Server\bin\Debug\Server.exe.config
+c:\users\korisnik\source\repos\BLOK2_projekat\Server\bin\Debug\Server.exe
+c:\users\korisnik\source\repos\BLOK2_projekat\Server\bin\Debug\Server.pdb
+c:\users\korisnik\source\repos\BLOK2_projekat\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+c:\users\korisnik\source\repos\BLOK2_projekat\Server\obj\Debug\Server.exe
+c:\users\korisnik\source\repos\BLOK2_projekat\Server\obj\Debug\Server.pdb
+D:\BLOK2\BLOK2_projekat\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\BLOK2\BLOK2_projekat\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\BLOK2\BLOK2_projekat\Server\obj\Debug\Server.exe
+D:\BLOK2\BLOK2_projekat\Server\obj\Debug\Server.pdb
+D:\KORISNIK\Desktop\cetvrtak\BLOK2_projekat\Server\bin\Debug\Server.exe.config
+D:\KORISNIK\Desktop\cetvrtak\BLOK2_projekat\Server\bin\Debug\Server.exe
+D:\KORISNIK\Desktop\cetvrtak\BLOK2_projekat\Server\bin\Debug\Server.pdb
+D:\KORISNIK\Desktop\cetvrtak\BLOK2_projekat\Server\bin\Debug\Client.exe
+D:\KORISNIK\Desktop\cetvrtak\BLOK2_projekat\Server\bin\Debug\Common.dll
+D:\KORISNIK\Desktop\cetvrtak\BLOK2_projekat\Server\bin\Debug\Client.pdb
+D:\KORISNIK\Desktop\cetvrtak\BLOK2_projekat\Server\bin\Debug\Client.exe.config
+D:\KORISNIK\Desktop\cetvrtak\BLOK2_projekat\Server\bin\Debug\Common.pdb
+D:\KORISNIK\Desktop\cetvrtak\BLOK2_projekat\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\KORISNIK\Desktop\cetvrtak\BLOK2_projekat\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\KORISNIK\Desktop\cetvrtak\BLOK2_projekat\Server\obj\Debug\Server.csproj.CopyComplete
+D:\KORISNIK\Desktop\cetvrtak\BLOK2_projekat\Server\obj\Debug\Server.exe
+D:\KORISNIK\Desktop\cetvrtak\BLOK2_projekat\Server\obj\Debug\Server.pdb
+C:\Users\Administrator\Desktop\cetvrtak\BLOK2_projekat\Server\bin\Debug\Server.exe.config
+C:\Users\Administrator\Desktop\cetvrtak\BLOK2_projekat\Server\bin\Debug\Server.exe
+C:\Users\Administrator\Desktop\cetvrtak\BLOK2_projekat\Server\bin\Debug\Server.pdb
+C:\Users\Administrator\Desktop\cetvrtak\BLOK2_projekat\Server\bin\Debug\Client.exe
+C:\Users\Administrator\Desktop\cetvrtak\BLOK2_projekat\Server\bin\Debug\Common.dll
+C:\Users\Administrator\Desktop\cetvrtak\BLOK2_projekat\Server\bin\Debug\Client.pdb
+C:\Users\Administrator\Desktop\cetvrtak\BLOK2_projekat\Server\bin\Debug\Client.exe.config
+C:\Users\Administrator\Desktop\cetvrtak\BLOK2_projekat\Server\bin\Debug\Common.pdb
+C:\Users\Administrator\Desktop\cetvrtak\BLOK2_projekat\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\cetvrtak\BLOK2_projekat\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\cetvrtak\BLOK2_projekat\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Administrator\Desktop\cetvrtak\BLOK2_projekat\Server\obj\Debug\Server.exe
+C:\Users\Administrator\Desktop\cetvrtak\BLOK2_projekat\Server\obj\Debug\Server.pdb
+C:\Users\Administrator\Desktop\cetvrtak novi\cetvrtak\BLOK2_projekat\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\cetvrtak novi\cetvrtak\BLOK2_projekat\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\cetvrtak novi\cetvrtak\BLOK2_projekat\Server\obj\Debug\Server.exe
+C:\Users\Administrator\Desktop\cetvrtak novi\cetvrtak\BLOK2_projekat\Server\obj\Debug\Server.pdb
+C:\Users\Administrator\Desktop\cetvrtak novi\cetvrtak\BLOK2_projekat\Server\bin\Debug\Server.exe.config
+C:\Users\Administrator\Desktop\cetvrtak novi\cetvrtak\BLOK2_projekat\Server\bin\Debug\Server.exe
+C:\Users\Administrator\Desktop\cetvrtak novi\cetvrtak\BLOK2_projekat\Server\bin\Debug\Server.pdb
+C:\Users\Administrator\Desktop\cetvrtak novi\cetvrtak\BLOK2_projekat\Server\bin\Debug\Client.exe
+C:\Users\Administrator\Desktop\cetvrtak novi\cetvrtak\BLOK2_projekat\Server\bin\Debug\Common.dll
+C:\Users\Administrator\Desktop\cetvrtak novi\cetvrtak\BLOK2_projekat\Server\bin\Debug\Client.pdb
+C:\Users\Administrator\Desktop\cetvrtak novi\cetvrtak\BLOK2_projekat\Server\bin\Debug\Client.exe.config
+C:\Users\Administrator\Desktop\cetvrtak novi\cetvrtak\BLOK2_projekat\Server\bin\Debug\Common.pdb
+C:\Users\Administrator\Desktop\cetvrtak novi\cetvrtak\BLOK2_projekat\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Dina\Desktop\PETAK\cetvrtak novi\cetvrtak\BLOK2_projekat\Server\bin\Debug\Server.exe.config
+C:\Users\Dina\Desktop\PETAK\cetvrtak novi\cetvrtak\BLOK2_projekat\Server\bin\Debug\Server.exe
+C:\Users\Dina\Desktop\PETAK\cetvrtak novi\cetvrtak\BLOK2_projekat\Server\bin\Debug\Server.pdb
+C:\Users\Dina\Desktop\PETAK\cetvrtak novi\cetvrtak\BLOK2_projekat\Server\bin\Debug\Client.exe
+C:\Users\Dina\Desktop\PETAK\cetvrtak novi\cetvrtak\BLOK2_projekat\Server\bin\Debug\Common.dll
+C:\Users\Dina\Desktop\PETAK\cetvrtak novi\cetvrtak\BLOK2_projekat\Server\bin\Debug\Common.pdb
+C:\Users\Dina\Desktop\PETAK\cetvrtak novi\cetvrtak\BLOK2_projekat\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Dina\Desktop\PETAK\cetvrtak novi\cetvrtak\BLOK2_projekat\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Dina\Desktop\PETAK\cetvrtak novi\cetvrtak\BLOK2_projekat\Server\obj\Debug\Server.exe
+C:\Users\Dina\Desktop\PETAK\cetvrtak novi\cetvrtak\BLOK2_projekat\Server\obj\Debug\Server.pdb
+C:\Users\Dina\Desktop\PETAK\cetvrtak novi\cetvrtak\BLOK2_projekat\Server\bin\Debug\Client.pdb
+C:\Users\Dina\Desktop\PETAK\cetvrtak novi\cetvrtak\BLOK2_projekat\Server\bin\Debug\Client.exe.config
+C:\Users\Dina\Desktop\PETAK\cetvrtak novi\cetvrtak\BLOK2_projekat\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\KORISNIK\Desktop\subota\PETAK\cetvrtak novi\cetvrtak\BLOK2_projekat\Server\bin\Debug\Server.exe.config
+D:\KORISNIK\Desktop\subota\PETAK\cetvrtak novi\cetvrtak\BLOK2_projekat\Server\bin\Debug\Server.exe
+D:\KORISNIK\Desktop\subota\PETAK\cetvrtak novi\cetvrtak\BLOK2_projekat\Server\bin\Debug\Server.pdb
+D:\KORISNIK\Desktop\subota\PETAK\cetvrtak novi\cetvrtak\BLOK2_projekat\Server\bin\Debug\Client.exe
+D:\KORISNIK\Desktop\subota\PETAK\cetvrtak novi\cetvrtak\BLOK2_projekat\Server\bin\Debug\Common.dll
+D:\KORISNIK\Desktop\subota\PETAK\cetvrtak novi\cetvrtak\BLOK2_projekat\Server\bin\Debug\Client.pdb
+D:\KORISNIK\Desktop\subota\PETAK\cetvrtak novi\cetvrtak\BLOK2_projekat\Server\bin\Debug\Client.exe.config
+D:\KORISNIK\Desktop\subota\PETAK\cetvrtak novi\cetvrtak\BLOK2_projekat\Server\bin\Debug\Common.pdb
+D:\KORISNIK\Desktop\subota\PETAK\cetvrtak novi\cetvrtak\BLOK2_projekat\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\KORISNIK\Desktop\subota\PETAK\cetvrtak novi\cetvrtak\BLOK2_projekat\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\KORISNIK\Desktop\subota\PETAK\cetvrtak novi\cetvrtak\BLOK2_projekat\Server\obj\Debug\Server.csproj.CopyComplete
+D:\KORISNIK\Desktop\subota\PETAK\cetvrtak novi\cetvrtak\BLOK2_projekat\Server\obj\Debug\Server.exe
+D:\KORISNIK\Desktop\subota\PETAK\cetvrtak novi\cetvrtak\BLOK2_projekat\Server\obj\Debug\Server.pdb
+C:\Users\Administrator\Desktop\BLOK2_projekat\Server\bin\Debug\Server.exe.config
+C:\Users\Administrator\Desktop\BLOK2_projekat\Server\bin\Debug\Server.exe
+C:\Users\Administrator\Desktop\BLOK2_projekat\Server\bin\Debug\Server.pdb
+C:\Users\Administrator\Desktop\BLOK2_projekat\Server\bin\Debug\Client.exe
+C:\Users\Administrator\Desktop\BLOK2_projekat\Server\bin\Debug\Common.dll
+C:\Users\Administrator\Desktop\BLOK2_projekat\Server\bin\Debug\Client.pdb
+C:\Users\Administrator\Desktop\BLOK2_projekat\Server\bin\Debug\Client.exe.config
+C:\Users\Administrator\Desktop\BLOK2_projekat\Server\bin\Debug\Common.pdb
+C:\Users\Administrator\Desktop\BLOK2_projekat\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\BLOK2_projekat\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\BLOK2_projekat\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Administrator\Desktop\BLOK2_projekat\Server\obj\Debug\Server.exe
+C:\Users\Administrator\Desktop\BLOK2_projekat\Server\obj\Debug\Server.pdb
+D:\BLOK2\12.11\BLOK2_projekat\Server\bin\Debug\Server.exe.config
+D:\BLOK2\12.11\BLOK2_projekat\Server\bin\Debug\Server.exe
+D:\BLOK2\12.11\BLOK2_projekat\Server\bin\Debug\Server.pdb
+D:\BLOK2\12.11\BLOK2_projekat\Server\bin\Debug\Client.exe
+D:\BLOK2\12.11\BLOK2_projekat\Server\bin\Debug\Common.dll
+D:\BLOK2\12.11\BLOK2_projekat\Server\bin\Debug\Client.pdb
+D:\BLOK2\12.11\BLOK2_projekat\Server\bin\Debug\Client.exe.config
+D:\BLOK2\12.11\BLOK2_projekat\Server\bin\Debug\Common.pdb
+D:\BLOK2\12.11\BLOK2_projekat\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\BLOK2\12.11\BLOK2_projekat\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\BLOK2\12.11\BLOK2_projekat\Server\obj\Debug\Server.csproj.CopyComplete
+D:\BLOK2\12.11\BLOK2_projekat\Server\obj\Debug\Server.exe
+D:\BLOK2\12.11\BLOK2_projekat\Server\obj\Debug\Server.pdb
+D:\BLOK2\12.11\BLOK2_projekat\Server\bin\Debug\SecondaryServer.exe
+D:\BLOK2\12.11\BLOK2_projekat\Server\bin\Debug\SecondaryServer.pdb
+D:\BLOK2\12.11\BLOK2_projekat\Server\bin\Debug\SecondaryServer.exe.config
+E:\sa replikacijom\BLOK2_projekat\Server\bin\Debug\Server.exe.config
+E:\sa replikacijom\BLOK2_projekat\Server\bin\Debug\Server.exe
+E:\sa replikacijom\BLOK2_projekat\Server\bin\Debug\Server.pdb
+E:\sa replikacijom\BLOK2_projekat\Server\bin\Debug\Client.exe
+E:\sa replikacijom\BLOK2_projekat\Server\bin\Debug\Common.dll
+E:\sa replikacijom\BLOK2_projekat\Server\bin\Debug\SecondaryServer.exe
+E:\sa replikacijom\BLOK2_projekat\Server\bin\Debug\Client.pdb
+E:\sa replikacijom\BLOK2_projekat\Server\bin\Debug\Client.exe.config
+E:\sa replikacijom\BLOK2_projekat\Server\bin\Debug\Common.pdb
+E:\sa replikacijom\BLOK2_projekat\Server\bin\Debug\SecondaryServer.pdb
+E:\sa replikacijom\BLOK2_projekat\Server\bin\Debug\SecondaryServer.exe.config
+E:\sa replikacijom\BLOK2_projekat\Server\obj\Debug\Server.csprojAssemblyReference.cache
+E:\sa replikacijom\BLOK2_projekat\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+E:\sa replikacijom\BLOK2_projekat\Server\obj\Debug\Server.csproj.CopyComplete
+E:\sa replikacijom\BLOK2_projekat\Server\obj\Debug\Server.exe
+E:\sa replikacijom\BLOK2_projekat\Server\obj\Debug\Server.pdb
+C:\Users\Administrator\Desktop\NOVIIIIIIIIIII\sa replikacijom\BLOK2_projekat\Server\bin\Debug\Server.exe.config
+C:\Users\Administrator\Desktop\NOVIIIIIIIIIII\sa replikacijom\BLOK2_projekat\Server\bin\Debug\Server.exe
+C:\Users\Administrator\Desktop\NOVIIIIIIIIIII\sa replikacijom\BLOK2_projekat\Server\bin\Debug\Server.pdb
+C:\Users\Administrator\Desktop\NOVIIIIIIIIIII\sa replikacijom\BLOK2_projekat\Server\bin\Debug\Client.exe
+C:\Users\Administrator\Desktop\NOVIIIIIIIIIII\sa replikacijom\BLOK2_projekat\Server\bin\Debug\Common.dll
+C:\Users\Administrator\Desktop\NOVIIIIIIIIIII\sa replikacijom\BLOK2_projekat\Server\bin\Debug\SecondaryServer.exe
+C:\Users\Administrator\Desktop\NOVIIIIIIIIIII\sa replikacijom\BLOK2_projekat\Server\bin\Debug\Client.pdb
+C:\Users\Administrator\Desktop\NOVIIIIIIIIIII\sa replikacijom\BLOK2_projekat\Server\bin\Debug\Client.exe.config
+C:\Users\Administrator\Desktop\NOVIIIIIIIIIII\sa replikacijom\BLOK2_projekat\Server\bin\Debug\Common.pdb
+C:\Users\Administrator\Desktop\NOVIIIIIIIIIII\sa replikacijom\BLOK2_projekat\Server\bin\Debug\SecondaryServer.pdb
+C:\Users\Administrator\Desktop\NOVIIIIIIIIIII\sa replikacijom\BLOK2_projekat\Server\bin\Debug\SecondaryServer.exe.config
+C:\Users\Administrator\Desktop\NOVIIIIIIIIIII\sa replikacijom\BLOK2_projekat\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\NOVIIIIIIIIIII\sa replikacijom\BLOK2_projekat\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\NOVIIIIIIIIIII\sa replikacijom\BLOK2_projekat\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Administrator\Desktop\NOVIIIIIIIIIII\sa replikacijom\BLOK2_projekat\Server\obj\Debug\Server.exe
+C:\Users\Administrator\Desktop\NOVIIIIIIIIIII\sa replikacijom\BLOK2_projekat\Server\obj\Debug\Server.pdb
+C:\Users\Administrator\Desktop\sa replikacijom\BLOK2_projekat\Server\bin\Debug\Server.exe.config
+C:\Users\Administrator\Desktop\sa replikacijom\BLOK2_projekat\Server\bin\Debug\Server.exe
+C:\Users\Administrator\Desktop\sa replikacijom\BLOK2_projekat\Server\bin\Debug\Server.pdb
+C:\Users\Administrator\Desktop\sa replikacijom\BLOK2_projekat\Server\bin\Debug\Client.exe
+C:\Users\Administrator\Desktop\sa replikacijom\BLOK2_projekat\Server\bin\Debug\Common.dll
+C:\Users\Administrator\Desktop\sa replikacijom\BLOK2_projekat\Server\bin\Debug\SecondaryServer.exe
+C:\Users\Administrator\Desktop\sa replikacijom\BLOK2_projekat\Server\bin\Debug\Client.pdb
+C:\Users\Administrator\Desktop\sa replikacijom\BLOK2_projekat\Server\bin\Debug\Client.exe.config
+C:\Users\Administrator\Desktop\sa replikacijom\BLOK2_projekat\Server\bin\Debug\Common.pdb
+C:\Users\Administrator\Desktop\sa replikacijom\BLOK2_projekat\Server\bin\Debug\SecondaryServer.pdb
+C:\Users\Administrator\Desktop\sa replikacijom\BLOK2_projekat\Server\bin\Debug\SecondaryServer.exe.config
+C:\Users\Administrator\Desktop\sa replikacijom\BLOK2_projekat\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\sa replikacijom\BLOK2_projekat\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\sa replikacijom\BLOK2_projekat\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Administrator\Desktop\sa replikacijom\BLOK2_projekat\Server\obj\Debug\Server.exe
+C:\Users\Administrator\Desktop\sa replikacijom\BLOK2_projekat\Server\obj\Debug\Server.pdb
