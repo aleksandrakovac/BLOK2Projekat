@@ -1,0 +1,80 @@
+c:\users\korisnik\source\repos\BLOK2_projekat\Common\bin\Debug\Common.dll
+c:\users\korisnik\source\repos\BLOK2_projekat\Common\bin\Debug\Common.pdb
+c:\users\korisnik\source\repos\BLOK2_projekat\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+c:\users\korisnik\source\repos\BLOK2_projekat\Common\obj\Debug\Common.dll
+c:\users\korisnik\source\repos\BLOK2_projekat\Common\obj\Debug\Common.pdb
+D:\BLOK2\BLOK2_projekat\Common\obj\Debug\Common.csprojAssemblyReference.cache
+D:\BLOK2\BLOK2_projekat\Common\obj\Debug\Common.AuditEventFile.resources
+D:\BLOK2\BLOK2_projekat\Common\obj\Debug\Common.RolesConfigFile.resources
+D:\BLOK2\BLOK2_projekat\Common\obj\Debug\Common.csproj.GenerateResource.cache
+D:\BLOK2\BLOK2_projekat\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\BLOK2\BLOK2_projekat\Common\obj\Debug\Common.dll
+D:\BLOK2\BLOK2_projekat\Common\obj\Debug\Common.pdb
+D:\KORISNIK\Desktop\cetvrtak\BLOK2_projekat\Common\bin\Debug\Common.dll
+D:\KORISNIK\Desktop\cetvrtak\BLOK2_projekat\Common\bin\Debug\Common.pdb
+D:\KORISNIK\Desktop\cetvrtak\BLOK2_projekat\Common\obj\Debug\Common.csprojAssemblyReference.cache
+D:\KORISNIK\Desktop\cetvrtak\BLOK2_projekat\Common\obj\Debug\Common.AuditEventFile.resources
+D:\KORISNIK\Desktop\cetvrtak\BLOK2_projekat\Common\obj\Debug\Common.RolesConfigFile.resources
+D:\KORISNIK\Desktop\cetvrtak\BLOK2_projekat\Common\obj\Debug\Common.csproj.GenerateResource.cache
+D:\KORISNIK\Desktop\cetvrtak\BLOK2_projekat\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\KORISNIK\Desktop\cetvrtak\BLOK2_projekat\Common\obj\Debug\Common.dll
+D:\KORISNIK\Desktop\cetvrtak\BLOK2_projekat\Common\obj\Debug\Common.pdb
+C:\Users\Administrator\Desktop\cetvrtak\BLOK2_projekat\Common\bin\Debug\Common.dll
+C:\Users\Administrator\Desktop\cetvrtak\BLOK2_projekat\Common\bin\Debug\Common.pdb
+C:\Users\Administrator\Desktop\cetvrtak\BLOK2_projekat\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\cetvrtak\BLOK2_projekat\Common\obj\Debug\Common.AuditEventFile.resources
+C:\Users\Administrator\Desktop\cetvrtak\BLOK2_projekat\Common\obj\Debug\Common.RolesConfigFile.resources
+C:\Users\Administrator\Desktop\cetvrtak\BLOK2_projekat\Common\obj\Debug\Common.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\cetvrtak\BLOK2_projekat\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\cetvrtak\BLOK2_projekat\Common\obj\Debug\Common.dll
+C:\Users\Administrator\Desktop\cetvrtak\BLOK2_projekat\Common\obj\Debug\Common.pdb
+C:\Users\Administrator\Desktop\cetvrtak novi\cetvrtak\BLOK2_projekat\Common\obj\Debug\Common.AuditEventFile.resources
+C:\Users\Administrator\Desktop\cetvrtak novi\cetvrtak\BLOK2_projekat\Common\obj\Debug\Common.RolesConfigFile.resources
+C:\Users\Administrator\Desktop\cetvrtak novi\cetvrtak\BLOK2_projekat\Common\obj\Debug\Common.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\cetvrtak novi\cetvrtak\BLOK2_projekat\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\cetvrtak novi\cetvrtak\BLOK2_projekat\Common\obj\Debug\Common.dll
+C:\Users\Administrator\Desktop\cetvrtak novi\cetvrtak\BLOK2_projekat\Common\obj\Debug\Common.pdb
+C:\Users\Administrator\Desktop\cetvrtak novi\cetvrtak\BLOK2_projekat\Common\bin\Debug\Common.dll
+C:\Users\Administrator\Desktop\cetvrtak novi\cetvrtak\BLOK2_projekat\Common\bin\Debug\Common.pdb
+C:\Users\Dina\Desktop\PETAK\cetvrtak novi\cetvrtak\BLOK2_projekat\Common\bin\Debug\Common.dll
+C:\Users\Dina\Desktop\PETAK\cetvrtak novi\cetvrtak\BLOK2_projekat\Common\bin\Debug\Common.pdb
+C:\Users\Dina\Desktop\PETAK\cetvrtak novi\cetvrtak\BLOK2_projekat\Common\obj\Debug\Common.AuditEventFile.resources
+C:\Users\Dina\Desktop\PETAK\cetvrtak novi\cetvrtak\BLOK2_projekat\Common\obj\Debug\Common.RolesConfigFile.resources
+C:\Users\Dina\Desktop\PETAK\cetvrtak novi\cetvrtak\BLOK2_projekat\Common\obj\Debug\Common.csproj.GenerateResource.cache
+C:\Users\Dina\Desktop\PETAK\cetvrtak novi\cetvrtak\BLOK2_projekat\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Dina\Desktop\PETAK\cetvrtak novi\cetvrtak\BLOK2_projekat\Common\obj\Debug\Common.dll
+C:\Users\Dina\Desktop\PETAK\cetvrtak novi\cetvrtak\BLOK2_projekat\Common\obj\Debug\Common.pdb
+C:\Users\Administrator\Desktop\BLOK2_projekat\Common\bin\Debug\Common.dll
+C:\Users\Administrator\Desktop\BLOK2_projekat\Common\bin\Debug\Common.pdb
+C:\Users\Administrator\Desktop\BLOK2_projekat\Common\obj\Debug\Common.AuditEventFile.resources
+C:\Users\Administrator\Desktop\BLOK2_projekat\Common\obj\Debug\Common.RolesConfigFile.resources
+C:\Users\Administrator\Desktop\BLOK2_projekat\Common\obj\Debug\Common.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\BLOK2_projekat\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\BLOK2_projekat\Common\obj\Debug\Common.dll
+C:\Users\Administrator\Desktop\BLOK2_projekat\Common\obj\Debug\Common.pdb
+D:\BLOK2\12.11\BLOK2_projekat\Common\bin\Debug\Common.dll
+D:\BLOK2\12.11\BLOK2_projekat\Common\bin\Debug\Common.pdb
+D:\BLOK2\12.11\BLOK2_projekat\Common\obj\Debug\Common.csprojAssemblyReference.cache
+D:\BLOK2\12.11\BLOK2_projekat\Common\obj\Debug\Common.AuditEventFile.resources
+D:\BLOK2\12.11\BLOK2_projekat\Common\obj\Debug\Common.RolesConfigFile.resources
+D:\BLOK2\12.11\BLOK2_projekat\Common\obj\Debug\Common.csproj.GenerateResource.cache
+D:\BLOK2\12.11\BLOK2_projekat\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\BLOK2\12.11\BLOK2_projekat\Common\obj\Debug\Common.dll
+D:\BLOK2\12.11\BLOK2_projekat\Common\obj\Debug\Common.pdb
+C:\Users\Administrator\Desktop\NOVIIIIIIIIIII\sa replikacijom\BLOK2_projekat\Common\bin\Debug\Common.dll
+C:\Users\Administrator\Desktop\NOVIIIIIIIIIII\sa replikacijom\BLOK2_projekat\Common\bin\Debug\Common.pdb
+C:\Users\Administrator\Desktop\NOVIIIIIIIIIII\sa replikacijom\BLOK2_projekat\Common\obj\Debug\Common.AuditEventFile.resources
+C:\Users\Administrator\Desktop\NOVIIIIIIIIIII\sa replikacijom\BLOK2_projekat\Common\obj\Debug\Common.RolesConfigFile.resources
+C:\Users\Administrator\Desktop\NOVIIIIIIIIIII\sa replikacijom\BLOK2_projekat\Common\obj\Debug\Common.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\NOVIIIIIIIIIII\sa replikacijom\BLOK2_projekat\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\NOVIIIIIIIIIII\sa replikacijom\BLOK2_projekat\Common\obj\Debug\Common.dll
+C:\Users\Administrator\Desktop\NOVIIIIIIIIIII\sa replikacijom\BLOK2_projekat\Common\obj\Debug\Common.pdb
+C:\Users\Administrator\Desktop\sa replikacijom\BLOK2_projekat\Common\bin\Debug\Common.dll
+C:\Users\Administrator\Desktop\sa replikacijom\BLOK2_projekat\Common\bin\Debug\Common.pdb
+C:\Users\Administrator\Desktop\sa replikacijom\BLOK2_projekat\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\sa replikacijom\BLOK2_projekat\Common\obj\Debug\Common.AuditEventFile.resources
+C:\Users\Administrator\Desktop\sa replikacijom\BLOK2_projekat\Common\obj\Debug\Common.RolesConfigFile.resources
+C:\Users\Administrator\Desktop\sa replikacijom\BLOK2_projekat\Common\obj\Debug\Common.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\sa replikacijom\BLOK2_projekat\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\sa replikacijom\BLOK2_projekat\Common\obj\Debug\Common.dll
+C:\Users\Administrator\Desktop\sa replikacijom\BLOK2_projekat\Common\obj\Debug\Common.pdb
