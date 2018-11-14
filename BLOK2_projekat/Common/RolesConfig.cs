@@ -30,7 +30,7 @@ namespace Common
                 lock(resourceLock)
                 {
                     if (resourceManager == null)
-                        resourceManager = new ResourceManager(typeof(RolesConfigFile).FullName, Assembly.GetExecutingAssembly()); //prvi parametar je gde smestamo nase resurse
+                        resourceManager = new ResourceManager(typeof(RolesConfigFile).FullName, Assembly.GetExecutingAssembly()); 
                     return resourceManager;
                 }
             }

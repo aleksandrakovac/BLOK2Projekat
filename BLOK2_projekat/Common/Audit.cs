@@ -21,7 +21,7 @@ namespace Common
                 {
                     EventLog.CreateEventSource(SourceName, LogName);
                 }
-                customLog = new EventLog(LogName, Environment.MachineName, SourceName);//ubacivanje nove linije loga
+                customLog = new EventLog(LogName, Environment.MachineName, SourceName);
                 Console.WriteLine("Created custom logs");
             }
             catch (Exception e)

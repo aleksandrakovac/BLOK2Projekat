@@ -19,19 +19,19 @@ namespace Server
         static void Main(string[] args)
         {
             NetTcpBinding binding = new NetTcpBinding();
-            binding.Security.Mode = SecurityMode.Message; //.message da bi svaku poruku zastitio i posalje zasticenu poruku
-            binding.Security.Transport.ClientCredentialType = TcpClientCredentialType.Windows; //vjezba 2 kod nje str 3
-            //binding.Security.Transport.ProtectionLevel = System.Net.Security.ProtectionLevel.EncryptAndSign; //poruka se i digitalno potpisuje i kriptuje
+            binding.Security.Mode = SecurityMode.Message; 
+            binding.Security.Transport.ClientCredentialType = TcpClientCredentialType.Windows; 
+            //binding.Security.Transport.ProtectionLevel = System.Net.Security.ProtectionLevel.EncryptAndSign; 
 
             string address = "net.tcp://localhost:9999/WCFService";
             ServiceHost host = new ServiceHost(typeof(WCFService));
             host.AddServiceEndpoint(typeof(IWCFService), binding, address);
 
-            host.Authorization.ServiceAuthorizationManager = new CustomAuthorizationManager(); //tu se nalazi checkaccesscore
+            host.Authorization.ServiceAuthorizationManager = new CustomAuthorizationManager(); 
             List<IAuthorizationPolicy> policies = new List<IAuthorizationPolicy>();
             policies.Add(new CustomAuthorizationPolicy());
-            host.Authorization.ExternalAuthorizationPolicies = policies.AsReadOnly(); //ne moze da se mjenja, dozvoljeno samo ctianje
-            host.Authorization.PrincipalPermissionMode = PrincipalPermissionMode.Custom; //jer smo napravili nase grupe, ne koristimo ugradjene
+            host.Authorization.ExternalAuthorizationPolicies = policies.AsReadOnly();
+            host.Authorization.PrincipalPermissionMode = PrincipalPermissionMode.Custom;
 
 
             host.Description.Behaviors.Remove(typeof(ServiceDebugBehavior));

@@ -29,7 +29,6 @@ namespace Common
             get { return ClaimSet.System; }
         }
 
-        //prvo evaluete pa onda checkaccesscore pa onda ulazi u metodu
         public bool Evaluate(EvaluationContext evaluationContext, ref object state) 
         {
             object list;
@@ -50,10 +49,9 @@ namespace Common
             return true;
         }
 
-        //vraca pri
         protected virtual IPrincipal GetPrincipal(IIdentity identity)
         {
-            lock (locker) //zakljucavamo da ne bi moglo da isotvremeno pristupa
+            lock (locker) 
             {
                 IPrincipal principal = null;
                 WindowsIdentity windowsIdentity = identity as WindowsIdentity; 

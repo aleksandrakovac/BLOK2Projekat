@@ -17,9 +17,8 @@ namespace Server
 {
     public class WCFService : IWCFService
     {
-        //primarni server je klijent prema sekundarnom serveru
-        ReplicatorProxy proxy = Replication(); //pravljenje konekcije
-        static ReplicatorProxy Replication() //jer se tu poziva proxy.Replicate u metodi generate
+        ReplicatorProxy proxy = Replication();
+        static ReplicatorProxy Replication() 
         {
             NetTcpBinding binding = new NetTcpBinding();
             binding.Security.Mode = SecurityMode.Message;

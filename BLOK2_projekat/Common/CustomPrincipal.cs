@@ -17,7 +17,6 @@ namespace Common
         {
             this.identity = winIndentity;
 
-            //prevodjenje windows grupe u njen naziv
             foreach (IdentityReference group in this.identity.Groups)
             {
 
@@ -26,10 +25,9 @@ namespace Common
                 var name = sid.Translate(typeof(NTAccount));
                 string groupName = Formatter.ParseName(name.ToString());
 
-               // if (!roles.ContainsKey(groupName))
+
                if(groupName=="Reader" || groupName=="AlarmGenerator"||groupName=="AlarmAdmin")
                 {
-                    //kljuc je grupa a vrednost permisija
                     roles.Add(groupName, RolesConfig.GetPermissions(groupName));
                 }
             }
@@ -55,7 +53,7 @@ namespace Common
             return IsAuthz;
         }
 
-        public void Dispose() //dispose za cleanup 
+        public void Dispose()
         {
             if (identity != null)
             {

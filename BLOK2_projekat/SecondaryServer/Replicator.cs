@@ -13,7 +13,7 @@ namespace SecondaryServer
        
         public List<Alarm> Replicate()
         {
-            List<Alarm> buffer = new List<Alarm>(); //interna struktura sekundarnog servera
+            List<Alarm> buffer = new List<Alarm>();
             Alarm alarm = new Alarm();
 
             buffer = alarm.Deserialization(file);
