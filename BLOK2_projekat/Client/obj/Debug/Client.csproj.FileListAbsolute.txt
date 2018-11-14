@@ -98,3 +98,13 @@ C:\Users\Administrator\Desktop\sa replikacijom\BLOK2_projekat\Client\obj\Debug\C
 C:\Users\Administrator\Desktop\sa replikacijom\BLOK2_projekat\Client\obj\Debug\Client.csproj.CopyComplete
 C:\Users\Administrator\Desktop\sa replikacijom\BLOK2_projekat\Client\obj\Debug\Client.exe
 C:\Users\Administrator\Desktop\sa replikacijom\BLOK2_projekat\Client\obj\Debug\Client.pdb
+C:\Users\SASKA\Documents\GitHub\BLOK2Projekat\BLOK2_projekat\Client\bin\Debug\Client.exe.config
+C:\Users\SASKA\Documents\GitHub\BLOK2Projekat\BLOK2_projekat\Client\bin\Debug\Client.exe
+C:\Users\SASKA\Documents\GitHub\BLOK2Projekat\BLOK2_projekat\Client\bin\Debug\Client.pdb
+C:\Users\SASKA\Documents\GitHub\BLOK2Projekat\BLOK2_projekat\Client\bin\Debug\Common.dll
+C:\Users\SASKA\Documents\GitHub\BLOK2Projekat\BLOK2_projekat\Client\bin\Debug\Common.pdb
+C:\Users\SASKA\Documents\GitHub\BLOK2Projekat\BLOK2_projekat\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\SASKA\Documents\GitHub\BLOK2Projekat\BLOK2_projekat\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\SASKA\Documents\GitHub\BLOK2Projekat\BLOK2_projekat\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\SASKA\Documents\GitHub\BLOK2Projekat\BLOK2_projekat\Client\obj\Debug\Client.exe
+C:\Users\SASKA\Documents\GitHub\BLOK2Projekat\BLOK2_projekat\Client\obj\Debug\Client.pdb

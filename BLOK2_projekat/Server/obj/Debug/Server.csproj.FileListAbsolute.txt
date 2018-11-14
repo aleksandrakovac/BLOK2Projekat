@@ -150,3 +150,19 @@ C:\Users\Administrator\Desktop\sa replikacijom\BLOK2_projekat\Server\obj\Debug\S
 C:\Users\Administrator\Desktop\sa replikacijom\BLOK2_projekat\Server\obj\Debug\Server.csproj.CopyComplete
 C:\Users\Administrator\Desktop\sa replikacijom\BLOK2_projekat\Server\obj\Debug\Server.exe
 C:\Users\Administrator\Desktop\sa replikacijom\BLOK2_projekat\Server\obj\Debug\Server.pdb
+C:\Users\SASKA\Documents\GitHub\BLOK2Projekat\BLOK2_projekat\Server\bin\Debug\Server.exe.config
+C:\Users\SASKA\Documents\GitHub\BLOK2Projekat\BLOK2_projekat\Server\bin\Debug\Server.exe
+C:\Users\SASKA\Documents\GitHub\BLOK2Projekat\BLOK2_projekat\Server\bin\Debug\Server.pdb
+C:\Users\SASKA\Documents\GitHub\BLOK2Projekat\BLOK2_projekat\Server\bin\Debug\Client.exe
+C:\Users\SASKA\Documents\GitHub\BLOK2Projekat\BLOK2_projekat\Server\bin\Debug\Common.dll
+C:\Users\SASKA\Documents\GitHub\BLOK2Projekat\BLOK2_projekat\Server\bin\Debug\SecondaryServer.exe
+C:\Users\SASKA\Documents\GitHub\BLOK2Projekat\BLOK2_projekat\Server\bin\Debug\Client.pdb
+C:\Users\SASKA\Documents\GitHub\BLOK2Projekat\BLOK2_projekat\Server\bin\Debug\Client.exe.config
+C:\Users\SASKA\Documents\GitHub\BLOK2Projekat\BLOK2_projekat\Server\bin\Debug\Common.pdb
+C:\Users\SASKA\Documents\GitHub\BLOK2Projekat\BLOK2_projekat\Server\bin\Debug\SecondaryServer.pdb
+C:\Users\SASKA\Documents\GitHub\BLOK2Projekat\BLOK2_projekat\Server\bin\Debug\SecondaryServer.exe.config
+C:\Users\SASKA\Documents\GitHub\BLOK2Projekat\BLOK2_projekat\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\SASKA\Documents\GitHub\BLOK2Projekat\BLOK2_projekat\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\SASKA\Documents\GitHub\BLOK2Projekat\BLOK2_projekat\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\SASKA\Documents\GitHub\BLOK2Projekat\BLOK2_projekat\Server\obj\Debug\Server.exe
+C:\Users\SASKA\Documents\GitHub\BLOK2Projekat\BLOK2_projekat\Server\obj\Debug\Server.pdb

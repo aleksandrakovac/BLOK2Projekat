@@ -23,7 +23,7 @@ namespace Server
             NetTcpBinding binding = new NetTcpBinding();
             binding.Security.Mode = SecurityMode.Message;
             binding.Security.Transport.ClientCredentialType = TcpClientCredentialType.Windows;
-            //binding.Security.Transport.ProtectionLevel = System.Net.Security.ProtectionLevel.EncryptAndSign;
+
             string address = "net.tcp://localhost:10000/Replicator";
             EndpointAddress ea = new EndpointAddress(new Uri(address));
             string name = WindowsIdentity.GetCurrent().Name;

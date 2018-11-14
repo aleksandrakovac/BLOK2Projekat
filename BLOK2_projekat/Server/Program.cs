@@ -21,7 +21,6 @@ namespace Server
             NetTcpBinding binding = new NetTcpBinding();
             binding.Security.Mode = SecurityMode.Message; 
             binding.Security.Transport.ClientCredentialType = TcpClientCredentialType.Windows; 
-            //binding.Security.Transport.ProtectionLevel = System.Net.Security.ProtectionLevel.EncryptAndSign; 
 
             string address = "net.tcp://localhost:9999/WCFService";
             ServiceHost host = new ServiceHost(typeof(WCFService));

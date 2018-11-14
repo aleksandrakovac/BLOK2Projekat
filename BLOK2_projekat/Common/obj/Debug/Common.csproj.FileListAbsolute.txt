@@ -78,3 +78,12 @@ C:\Users\Administrator\Desktop\sa replikacijom\BLOK2_projekat\Common\obj\Debug\C
 C:\Users\Administrator\Desktop\sa replikacijom\BLOK2_projekat\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
 C:\Users\Administrator\Desktop\sa replikacijom\BLOK2_projekat\Common\obj\Debug\Common.dll
 C:\Users\Administrator\Desktop\sa replikacijom\BLOK2_projekat\Common\obj\Debug\Common.pdb
+C:\Users\SASKA\Documents\GitHub\BLOK2Projekat\BLOK2_projekat\Common\bin\Debug\Common.dll
+C:\Users\SASKA\Documents\GitHub\BLOK2Projekat\BLOK2_projekat\Common\bin\Debug\Common.pdb
+C:\Users\SASKA\Documents\GitHub\BLOK2Projekat\BLOK2_projekat\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\SASKA\Documents\GitHub\BLOK2Projekat\BLOK2_projekat\Common\obj\Debug\Common.AuditEventFile.resources
+C:\Users\SASKA\Documents\GitHub\BLOK2Projekat\BLOK2_projekat\Common\obj\Debug\Common.RolesConfigFile.resources
+C:\Users\SASKA\Documents\GitHub\BLOK2Projekat\BLOK2_projekat\Common\obj\Debug\Common.csproj.GenerateResource.cache
+C:\Users\SASKA\Documents\GitHub\BLOK2Projekat\BLOK2_projekat\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\SASKA\Documents\GitHub\BLOK2Projekat\BLOK2_projekat\Common\obj\Debug\Common.dll
+C:\Users\SASKA\Documents\GitHub\BLOK2Projekat\BLOK2_projekat\Common\obj\Debug\Common.pdb
