@@ -15,7 +15,6 @@ namespace Client
     {
         static void Main(string[] args)
         {
-            Console.ReadLine();
             NetTcpBinding binding = new NetTcpBinding();
             binding.Security.Mode = SecurityMode.Message;
             binding.Security.Transport.ClientCredentialType = TcpClientCredentialType.Windows;
